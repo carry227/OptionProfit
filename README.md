@@ -1,8 +1,11 @@
-# 系統環境
+# 目的：
+- 整合所有合約及損益分布（不計交易成本）。
+  
+# 系統環境：
 -  Python 3.9
 -  Module : pandas / matplotlib
 
-# 使用方式
+# 使用方式：
 ###### from option_layout import OptionLayout
 ######
 ###### opt = OptionLayout()
